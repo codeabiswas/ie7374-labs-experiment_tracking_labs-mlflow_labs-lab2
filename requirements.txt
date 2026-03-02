@@ -1,0 +1,12 @@
+setuptools<75
+mlflow
+scikit-learn
+hyperopt
+pandas
+numpy
+seaborn
+matplotlib
+lightgbm
+pyspark
+ipykernel
+notebook
