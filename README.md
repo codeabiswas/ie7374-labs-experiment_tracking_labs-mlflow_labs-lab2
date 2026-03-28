@@ -2,6 +2,8 @@
 
 A machine learning lab demonstrating the full model lifecycle using **MLflow**: experiment tracking, hyperparameter tuning, model registry, and serving. Predicts whether a tumour is malignant or benign using the UCI Breast Cancer dataset.
 
+*Last updated: 2026-03-28*
+
 ## Changes from Original
 
 The original lab used the UCI Wine Quality dataset with XGBoost. This version swaps both:
